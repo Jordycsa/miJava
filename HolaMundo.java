@@ -8,5 +8,7 @@ public class HolaMundo {
 
         System.out.println("Hola, " + nombre + "!");
         System.out.println("La suma de " + a + " + " + b + " es: " + suma);
+        System.out.println("La multiplicación de " + a + " * " + b + " es: " + (a * b));
+
     }
 }
